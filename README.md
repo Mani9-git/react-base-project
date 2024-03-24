@@ -1,4 +1,4 @@
-# react_base_project
+# react-base-project
 Base application with required configurations for better development
 
 ## Core Structure
@@ -52,13 +52,13 @@ Refer to https://nodejs.org/en/ to install nodejs
 Clone the project into your local machine
 
 ```bash
-git clone https://github.com/ManiFission/react_base_project.git
+git clone https://github.com/Mani9-git/react-base-project.git
 ```
 
 Switch to directory 
 
 ```bash
-cd react_base_project
+cd react-base-project
 ```
 
 Install all the npm packages. Go into the project folder and type the following command to install all npm packages and run the application
